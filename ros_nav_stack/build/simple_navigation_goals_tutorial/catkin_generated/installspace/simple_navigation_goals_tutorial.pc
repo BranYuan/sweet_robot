@@ -1,0 +1,8 @@
+prefix=/home/sweet/ros_nav_stack/install
+
+Name: simple_navigation_goals_tutorial
+Description: Description of simple_navigation_goals_tutorial
+Version: 0.2.3
+Cflags: 
+Libs: -L/home/sweet/ros_nav_stack/install/lib 
+Requires: 

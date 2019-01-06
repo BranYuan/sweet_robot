@@ -1,0 +1,35 @@
+18-12-01-23:42:02----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:03----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:04----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:04----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:05----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:06----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:06----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:07----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:08----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:08----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:09----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:09----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:10----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:10----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:12----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:12----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:13----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:14----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:15----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:15----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:16----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:17----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:17----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:18----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:19----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:23----*LEFT#000
+18-12-01-23:42:26----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:27----*LEFT#000
+18-12-01-23:42:27----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:28----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:42:29----*LEFT#000
+18-12-01-23:42:30----*LEFT#000
+18-12-01-23:42:31----*LEFT#000
+18-12-01-23:42:31----*LEFT#000
+18-12-01-23:42:32----*LEFT#000

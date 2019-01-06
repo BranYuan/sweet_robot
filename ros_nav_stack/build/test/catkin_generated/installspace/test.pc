@@ -1,0 +1,8 @@
+prefix=/home/sweet/ros_nav_stack/install
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sweet/ros_nav_stack/install/lib 
+Requires: 

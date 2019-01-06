@@ -1,0 +1,2 @@
+base_controller:laser_scan_publisher_tutorial:navigation_stage:navigation_tutorials:odometry_publisher_tutorial:point_cloud_publisher_tutorial:robot_setup_tf_tutorial:simple_navigation_goals_tutorial:test
+-DCATKIN_DEVEL_PREFIX=/home/sweet/ros_nav_stack/devel -DCMAKE_INSTALL_PREFIX=/home/sweet/ros_nav_stack/install -G Unix Makefiles

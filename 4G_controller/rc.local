@@ -1,0 +1,12 @@
+#!/bin/sh -e
+
+#echo "this just a test" > /tmp/text.log
+chmod 777 /dev/ttyS1
+chmod 777 /dev/ttyS2
+chmod 777 /dev/ttyS3
+chmod 777 /dev/ttyS4
+chmod 777 /dev/ttyS5
+chmod 777 /dev/ttyS6
+/usr/bin/python2.7
+nohup python /home/guardrobot/guardRobot/socket_server.py &
+exit 0

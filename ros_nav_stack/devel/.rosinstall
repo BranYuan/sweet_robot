@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sweet/ros_nav_stack/devel/setup.sh

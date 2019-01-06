@@ -1,0 +1,61 @@
+18-12-07-12:31:38----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:31:41----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:31:44----*MOTORP4+#
+18-12-07-12:32:02----*STAY#*STAY#*STAY#
+18-12-07-12:32:02----*STAY#*STAY#
+18-12-07-12:32:03----*STAY#
+18-12-07-12:32:06----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:14----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:15----*STOP#*STOP#
+18-12-07-12:32:16----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:25----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:27----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:27----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:32----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:46----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:47----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:32:47----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:33:07----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:33:12----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:33:13----*STOP#*STOP#
+18-12-07-12:33:15----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:33:18----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:33:20----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:33:27----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:33:27----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:33:29----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:23----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:24----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:26----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:28----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:32----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:34----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:36----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:38----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:49----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:51----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:53----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:54----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:34:55----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:08----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:10----*STOP#*RIGHT#
+18-12-07-12:35:12----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:15----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:16----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:17----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:18----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:33----*STOP#*STOP#*STOP#*STOP#*STOP#
+18-12-07-12:35:41----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:41----*STOP#*STOP#
+18-12-07-12:35:42----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:45----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:45----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:50----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:55----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:35:59----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:36:07----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-12:36:18----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-07-13:25:47----*MOTORP4-#
+18-12-07-13:25:51----*STAY#
+18-12-07-13:25:52----*STAY#
+18-12-07-13:25:52----*STAY#

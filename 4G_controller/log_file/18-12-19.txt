@@ -1,0 +1,114 @@
+18-12-19-13:37:21----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:24----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:26----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:27----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:29----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:31----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:32----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:35----*MOTORP4+#
+18-12-19-13:37:38----*STAY#
+18-12-19-13:37:39----*STAY#*MOTORP4-#
+18-12-19-13:37:43----*STAY#
+18-12-19-13:37:44----*STAY#
+18-12-19-13:37:45----*OUT9_ON#
+18-12-19-13:37:47----*OUT9_OFF#
+18-12-19-13:37:50----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:56----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:58----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:37:59----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:00----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:05----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:07----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:11----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:12----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:15----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:16----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:19----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:21----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:22----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:24----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:25----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:28----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:30----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:32----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:35----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:35----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:36----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:39----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:40----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:38:52----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:40:35----*MOTORP4-#*MOTORP4-#*MOTORP4-#
+18-12-19-13:41:19----*STAY#*STAY#*STAY#
+18-12-19-13:41:20----*STAY#*STAY#
+18-12-19-13:41:21----*MOTORP4+#
+18-12-19-13:42:01----*STAY#
+18-12-19-13:42:02----*STAY#
+18-12-19-13:46:06----*MOTORP4-#
+18-12-19-13:46:47----*STAY#*STAY#*STAY#*STAY#*STAY#*STAY#*STAY#
+18-12-19-13:46:48----*STAY#*STAY#
+18-12-19-13:46:49----*STAY#*MOTORP4+#
+18-12-19-13:47:27----*STAY#
+18-12-19-13:48:07----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:48:11----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:48:13----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:48:18----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:48:21----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:48:23----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:48:27----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:48:30----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:48:44----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:13----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:19----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:21----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:23----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:27----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:29----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:34----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:36----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:40----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:44----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:47----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:48----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:50----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:49:53----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:50:10----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:50:14----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:50:53----*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#
+18-12-19-13:52:30----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:52:35----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:52:38----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:52:40----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:52:49----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:52:53----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:00----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:03----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:05----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:07----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:09----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:14----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:16----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:22----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:23----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:31----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:38----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:40----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:41----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:48----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:51----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:53----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:53:58----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:54:16----*STOP#*STOP#*STOP#*STOP#
+18-12-19-13:54:17----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-13:54:18----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:00:51----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:00:52----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:00:55----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:01:01----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:01:03----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:01:06----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:01:07----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:01:10----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:01:15----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:01:17----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-19-14:01:19----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+                                                                              
