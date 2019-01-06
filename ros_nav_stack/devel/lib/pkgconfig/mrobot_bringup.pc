@@ -1,8 +1,0 @@
-prefix=/home/sweet/ros_nav_stack/devel
-
-Name: mrobot_bringup
-Description: Description of mrobot_bringup
-Version: 0.0.0
-Cflags: -I/home/sweet/ros_nav_stack/src/robot_mrobot/mrobot_bringup/include
-Libs: -L/home/sweet/ros_nav_stack/devel/lib 
-Requires: 

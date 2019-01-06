@@ -1,8 +1,0 @@
-prefix=/home/sweet/ros_nav_stack/install
-
-Name: laser_scan_publisher_tutorial
-Description: Description of laser_scan_publisher_tutorial
-Version: 0.2.3
-Cflags: 
-Libs: -L/home/sweet/ros_nav_stack/install/lib 
-Requires: 
