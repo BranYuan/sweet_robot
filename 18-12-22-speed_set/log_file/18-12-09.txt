@@ -1,0 +1,45 @@
+18-12-09-14:11:57----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:11:59----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:12:03----*MOTORP4-#
+18-12-09-14:12:05----*STAY#
+18-12-09-14:35:15----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:35:21----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:35:27----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:35:50----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:35:52----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:35:57----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:36:08----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:36:11----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:36:13----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:36:21----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:36:22----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:36:23----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:36:27----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:36:28----*STOP#*STOP#
+18-12-09-14:37:11----*OUT9_ON#
+18-12-09-14:37:12----*OUT9_ON#
+18-12-09-14:37:15----*OUT9_ON#
+18-12-09-14:37:19----*OUT9_ON#
+18-12-09-14:37:20----*OUT9_OFF#
+18-12-09-14:37:21----*OUT9_OFF#*OUT9_OFF#*OUT9_OFF#
+18-12-09-14:37:22----*OUT9_ON#
+18-12-09-14:37:25----*OUT9_OFF#
+18-12-09-14:37:41----*MOTORP4+#
+18-12-09-14:37:43----*STAY#
+18-12-09-14:37:45----*MOTORP4-#
+18-12-09-14:37:51----*STAY#
+18-12-09-14:38:53----*OUT9_ON#
+18-12-09-14:39:04----*OUT9_OFF#
+18-12-09-14:39:05----*OUT9_OFF#
+18-12-09-14:39:56----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:39:58----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:41:27----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:41:51----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:41:52----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:41:52----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-09-14:41:54----*MOTORP4+#
+18-12-09-14:41:59----*STAY#
+18-12-09-14:42:00----*STAY#
+18-12-09-14:42:00----*MOTORP4-#
+18-12-09-14:42:26----*STAY#
+18-12-09-14:42:27----*STAY#

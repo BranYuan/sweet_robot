@@ -1,0 +1,11 @@
+#!/bin/sh -e
+chmod 777 /dev/ttyS1
+chmod 777 /dev/ttyS2
+chmod 777 /dev/ttyS3
+chmod 777 /dev/ttyS4
+chmod 777 /dev/ttyS5
+chmod 777 /dev/ttyS6
+/usr/bin/python2.7
+nohup python /home/robot2/robot_run/socket_server.py &
+exit 0
+

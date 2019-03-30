@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+#echo "this just a test" > /tmp/text.log
+#Chmod 777 /dev/ttyUSB0
+chmod 777 /dev/ttyS1
+#chmod 777 /dev/ttyS0
+#chmod 777 /dev/ttyUSB1
+#/usr/bin/python2.7
+/usr/socket_server &
+exit 0

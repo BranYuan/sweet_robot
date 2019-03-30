@@ -1,0 +1,106 @@
+19-03-10-12:01:40----*UP#
+19-03-10-12:02:31----*MOTORP4=#*MOTORP4-#*MOTORP4-#*OUT9_ON#*OUT9_ON#
+19-03-10-12:02:36----*MOTORP4=#
+19-03-10-12:03:03----*MOTORP4+#*MOTORP4+#*OUT9_ON#*OUT9_OFF#
+19-03-10-12:03:09----*MOTORP4=#
+19-03-10-12:03:12----*MOTORP4-#
+19-03-10-12:03:14----*MOTORP4=#
+19-03-10-12:03:23----*SPEED1500#
+19-03-10-12:03:24----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:03:34----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:03:35----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:03:36----*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:11----*SPEED2500#*BACK#
+19-03-10-12:06:14----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:16----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:24----*SPEED1500#
+19-03-10-12:06:26----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:28----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:35----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:50----*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:51----*STOP#*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:52----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:54----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:55----*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:06:59----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:07:00----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:07:03----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:07:04----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:07:06----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:07:07----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:20:21----*AUTO_RUN#----auto_run
+19-03-10-12:35:53----*OUT9_OFF#
+19-03-10-12:35:53----*OUT9_OFF#
+19-03-10-12:35:55----*OUT9_ON#
+19-03-10-12:35:56----*OUT9_OFF#
+19-03-10-12:35:56----*OUT9_OFF#
+19-03-10-12:36:23----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:38:22----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:39:56----*AHEAD#*AHEAD#*AHEAD#*AHEAD#*AHEAD#*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:39:57----*AHEAD#*AHEAD#*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:10----*RIGHT#*RIGHT#*RIGHT#*RIGHT#*RIGHT#*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:15----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:20----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:23----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:23----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:24----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:28----*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:29----*STOP#*STOP#*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:32----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:40:37----*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:41:06----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:41:15----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:41:20----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:41:21----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:41:27----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:41:28----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:41:29----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:41:33----*AUTO_RUN#----auto_run
+19-03-10-12:47:14----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:48:43----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:48:46----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:49:27----*AUTO_RUN#----auto_run
+19-03-10-12:49:30----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:52:19----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:52:42----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-12:53:03----*AUTO_RUN#----auto_run
+19-03-10-12:53:22----*AUTO_RUN#----auto_run
+19-03-10-12:53:58----*AUTO_RUN#----auto_run
+19-03-10-12:54:05----*AUTO_RUN#----auto_run
+19-03-10-12:55:34----*AUTO_RUN#----auto_run
+19-03-10-13:00:58----*AUTO_RUN#----auto_run
+19-03-10-13:01:07----*AUTO_RUN#----auto_run
+19-03-10-13:01:35----*AUTO_RUN#*AUTO_RUN#*STOP#----auto_run
+19-03-10-13:01:36----*AUTO_RUN#----auto_run
+19-03-10-13:01:46----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:04:32----
+AT Ready
+
+19-03-10-13:04:57----Welcome Sweet Robot
+19-03-10-13:04:58----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:05:02----*AUTO_RUN#----auto_run
+19-03-10-13:05:06----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:10:13----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:10:14----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:10:15----*STOP#*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:10:17----*AUTO_RUN#----auto_run
+19-03-10-13:10:20----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:11:15----*AUTO_RUN#*AUTO_RUN#----auto_run
+19-03-10-13:11:19----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:13:21----*AUTO_RUN#----auto_run
+19-03-10-13:13:38----*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:16:42----*STOP#*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:16:57----*AUTO_RUN#----auto_run
+19-03-10-13:18:26----*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#*STOP#*AUTO_RUN#*AUTO_RUN#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:18:26----*AUTO_RUN#----auto_run
+19-03-10-13:18:32----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:18:33----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:20:23----*AUTO_RUN#----auto_run
+19-03-10-13:22:33----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:22:40----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:22:45----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:22:47----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:22:49----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:22:51----*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:23:31----*STOP#*AHEAD#*AHEAD#*AHEAD#*BACK#*BACK#*BACK#*BACK#*BACK#*RIGHT#*RIGHT#*LEFT#*STOP#*RIGHT#*LEFT#*STOP#*STOP#*STOP#----cmd_left_motor sended----cmd_right_motor sended
+19-03-10-13:23:36----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended

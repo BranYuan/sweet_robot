@@ -1,0 +1,17 @@
+18-12-01-23:18:S----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:18:S----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:18:S----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:18:S----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*AHEAD#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*LEFT#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*BACK#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:19:S----*STOP#----cmd_left_motor sended----cmd_right_motor sended
+18-12-01-23:20:S----*RIGHT#----cmd_left_motor sended----cmd_right_motor sended
