@@ -115,12 +115,12 @@ def auto_run():
                         log_file.write("----speeds_ccw:")
                         for i in speeds_ccw:
                             log_file.write(str(hex(i)) + "  ")
-        
+        '''        
         print("sleep")
         print(cmd_data)
         time.sleep(60)
         print("wake_up")
-
+        '''
 
         #下位机控制命令发送
         if not ser.serial.isOpen():
