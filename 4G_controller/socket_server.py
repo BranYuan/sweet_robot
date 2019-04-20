@@ -115,7 +115,7 @@ if __name__ == "__main__":
                 '''
                 #打开端口
                 if not ser_4G.serial.isOpen():
-                    ser_4G.serial.open_port()
+                    ser_4G.open_port()
                 #若端口打开，且有数据输入，则接收，并记录与logfile中
                 if ser_4G.serial.isOpen():
                     if ser_4G.serial.inWaiting():

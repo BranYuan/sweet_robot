@@ -42,7 +42,7 @@ if __name__ == "__main__":
                 cmd_data = None
                 while not cmd_data:
                     if not ser_4G.serial.isOpen():
-                        ser_4G.serial.open_port()
+                        ser_4G.open_port()
                     if ser_4G.serial.isOpen():
                         cmd_data = ser_4G.receive_info_str()
                 if log_file:
